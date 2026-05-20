@@ -91,12 +91,6 @@ El sistema utiliza la librería **CsvHelper** para almacenar la información en 
 * CRUD por entidad
 * Repository Pattern básico
 
-##  Cómo Ejecutar el Proyecto
-##  Clonar el repositorio
-##  Abrir en Visual Studio
-##  Ejecutar el proyecto
-
-
 #  Posibles Mejoras Futuras
 
 * Interfaz gráfica
