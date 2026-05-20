@@ -1,18 +1,18 @@
-#  Sistema Hospitalario — Proyecto de Paradigmas de Programación
+#  Sistema Hospitalario — Proyecto de Paradigmas de Programación.
 
 Aplicación de consola desarrollada en **C#** que simula la gestión básica de un sistema hospitalario utilizando conceptos fundamentales de **Programación Orientada a Objetos (POO)** y algunos principios del **Paradigma Funcional** mediante el uso de **LINQ**.
 
 El proyecto permite administrar:
 
-* Pacientes * Doctores * Habitaciones * Hospitalizaciones * Historiales médicos * Persistencia de datos con archivos CSV usando CsvHelper
+* Pacientes * Doctores * Habitaciones * Hospitalizaciones * Historiales médicos * Persistencia de datos con archivos CSV usando CsvHelper.
 
 ---
 
 #  Objetivo del Proyecto
 Este proyecto fue desarrollado con fines académicos para aplicar:
 
-* Programación Orientada a Objetos * Relaciones UML * Principios de cohesión y acoplamiento
-* Persistencia de datos * Programación funcional básica con LINQ * Arquitectura por capas simple
+* Programación Orientada a Objetos * Relaciones UML * Principios de cohesión y acoplamiento.
+* Persistencia de datos * Programación funcional básica con LINQ * Arquitectura por capas simple.
 
 
 #  Paradigmas Aplicados
